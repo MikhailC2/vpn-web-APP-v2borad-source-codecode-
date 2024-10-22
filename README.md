@@ -61,7 +61,8 @@
 
 **Telegram ID ：@[jingge_v](https://t.me/jingge_v)**
 
-以下是部分项目截图，详情请看项目中的截图：
+部分项目截图：
+
 ![截图](/windows/1.png "截图")
 ![截图](/windows/2.png "截图")
 ![截图](/windows/3.png "截图")
